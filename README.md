@@ -1,6 +1,8 @@
-# runner_simpe_game
-Runner
+# Runner 
+###### v0.1
 
-Space - to jump over obstacles + double-jumps
+```
+Space - jump/double-jump over obstacles
 Shift - super speed ability
 Music, SFX, VFX
+```
